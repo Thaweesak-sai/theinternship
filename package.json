@@ -1,0 +1,13 @@
+{
+  "name": "basic-webcrawler-theInternship",
+  "version": "0.0.0",
+  "description": "Baisc Web Crawler, The Internship Q4",
+  "main": "theInternship_Q4.js",
+  "author": "Thaweesak",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.65.0",
+    "url-parse": "^1.0.5"
+  }
+}
