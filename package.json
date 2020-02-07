@@ -2,10 +2,11 @@
   "name": "basic-webcrawler-theInternship",
   "version": "0.0.0",
   "description": "Baisc Web Crawler, The Internship Q4",
-  "main": "theInternship_Q4.js",
+  "main": "crawler.js",
   "author": "Thaweesak",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "cheerio": "^0.22.0",
     "request": "^2.65.0",
     "url-parse": "^1.0.5"
