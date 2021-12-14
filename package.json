@@ -6,7 +6,7 @@
   "author": "Thaweesak",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "cheerio": "^0.22.0",
     "request": "^2.65.0",
     "url-parse": "^1.5.2"
