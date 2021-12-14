@@ -9,6 +9,6 @@
     "axios": "^0.21.1",
     "cheerio": "^0.22.0",
     "request": "^2.65.0",
-    "url-parse": "^1.0.5"
+    "url-parse": "^1.5.2"
   }
 }
